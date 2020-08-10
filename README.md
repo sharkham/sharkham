@@ -3,8 +3,6 @@ I am a full stack software engineer with experience in Ruby and Javascript, incl
 
 - 🔭 I’m currently working on updating and deploying my Pokémon size comparison JavaScript app!
 - 🤔 I’m looking for help with figuring out how to let users save an image of multiple elements on a page (like a screenshot) using VanillaJS
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I also write novels!
 
