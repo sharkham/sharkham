@@ -6,7 +6,7 @@ I am a full stack software engineer with experience in Ruby and Javascript, incl
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I also write novels!
 
-## Latest blog posts
+<!-- ## Latest blog posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
