@@ -1,9 +1,20 @@
-### Hi there 👋
+## Hi there 👋
+I am a full stack software engineer with experience in Ruby and Javascript, including Rails and React frameworks! Currently developing further skills in SQL, Postgres and CSS. My previous life includes a decade of experience in problem solving through writing, editing, critique and collaboration across many fields, from fiction and a published sociology paper to graphic novels and press releases. My blend of skills in collaboration, communication, analysis and creativity supplement my hard skills in coding. I enjoy putting my mind to a blank page and crafting something tangible and useful.
 
-### 📘 Latest blog posts
+- 🔭 I’m currently working on updating and deploying my Pokémon size comparison JavaScript app!
+- 🤔 I’m looking for help with figuring out how to let users save an image of multiple elements on a page (like a screenshot) using VanillaJS
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I also write novels!
+
+## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+## Get in touch
+<a href="https://twitter.com/sharkhamcodes"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href=""><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <!--
 **sharkham/sharkham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
