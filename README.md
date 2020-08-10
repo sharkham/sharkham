@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 <!--
 **sharkham/sharkham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
