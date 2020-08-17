@@ -8,11 +8,11 @@ I am a full stack software engineer with experience in Ruby and Javascript, incl
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [6 things I learned from building my first app for a client](https://dev.to/sharkham/6-things-i-learned-from-building-my-first-app-for-a-client-4dbj)
 - [Vertical project planning for a Vanilla JavaScript/Rails app](https://dev.to/sharkham/vertical-project-planning-for-a-vanilla-javascript-rails-app-3k43)
 - [A social media strategy for folks afraid of social media](https://dev.to/sharkham/a-social-media-strategy-for-folks-afraid-of-social-media-1gn3)
 - [6 things I learned from my first mock technical interview](https://dev.to/sharkham/6-things-i-learned-from-my-first-mock-technical-interview-3dbi)
 - [Follow-up: deploying Forgot/Reset Password (React/Rails app)](https://dev.to/sharkham/follow-up-deploying-forgot-reset-password-react-rails-app-223j)
-- [Deploying a React (with Redux)/Rails app with Netlify/Heroku](https://dev.to/sharkham/deploying-a-react-with-redux-rails-app-with-netlify-heroku-5b89)
 <!-- BLOG-POST-LIST:END -->
 
 ## Get in touch
