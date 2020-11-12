@@ -1,7 +1,7 @@
 ## Hi there 👋
 I am a full stack software engineer with experience in Ruby and Javascript, including Rails and React frameworks! Currently developing further skills in PostgreSQL.
 
-- 🔭 I’m currently working on converting my prompt generator app from React to Preact!
+- 🔭 I’m currently working on adding extra functionality to my React writing prompt generator
 - 🤔 I’m looking for help with figuring out how to let users save an image of multiple elements on a page (like a screenshot) using VanillaJS
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I also write novels!
