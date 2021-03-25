@@ -9,6 +9,7 @@ I am a full stack software engineer with experience in Ruby and Javascript, incl
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+
 <!-- BLOG-POST-LIST:END -->
 
 ## Get in touch
