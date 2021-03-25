@@ -9,7 +9,11 @@ I am a full stack software engineer with experience in Ruby and Javascript, incl
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-
+- [Project planning for a React/Rails Writing Challenge app](https://dev.to/sharkham/project-planning-for-a-react-rails-writing-challenge-app-4014)
+- [Getting started in Preact (by rebuilding a React app)](https://dev.to/sharkham/getting-started-in-preact-by-rebuilding-a-react-app-370k)
+- [Building a writing prompt generator with functional React](https://dev.to/sharkham/building-a-writing-prompt-generator-with-functional-react-1k1o)
+- [6 things I learned from building my first app for a client](https://dev.to/sharkham/6-things-i-learned-from-building-my-first-app-for-a-client-4dbj)
+- [Vertical project planning for a Vanilla JavaScript/Rails app](https://dev.to/sharkham/vertical-project-planning-for-a-vanilla-javascript-rails-app-3k43)
 <!-- BLOG-POST-LIST:END -->
 
 ## Get in touch
