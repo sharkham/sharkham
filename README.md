@@ -1,10 +1,8 @@
 ## Hi there 👋
 I am a full stack software engineer with experience in Ruby and Javascript, including Rails and React frameworks!
 
-- 🔭 I’m currently working on making a more generalizable version of my Novel Tracker app!
 - 👾 I recently built my dev portfolio--check it out <a href="https://www.sammarkham.dev">here</a>!
-- 🤔 I’m looking for help with figuring out how to let users save an image of multiple elements on a page (like a screenshot) using VanillaJS
-- 😄 Pronouns: she/her
+- 😄 Pronouns: she/they
 - ⚡ Fun fact: I also write novels!
 
 ## Latest blog posts
