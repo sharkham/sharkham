@@ -1,7 +1,7 @@
 ## Hi there 👋
-I am a full stack software engineer with experience in Ruby and Javascript, including Rails and React frameworks!
+I am a full stack software engineer with 3+ years experience building modern payments features in a primarily Ruby on Rails codebase. I also love programming video games in my spare time!
 
-- 👾 I recently built my dev portfolio--check it out <a href="https://www.sammarkham.dev">here</a>!
+- 👾 I have a dev portfolio I built from scratch with React and custom CSS--check it out <a href="https://www.sammarkham.dev">here</a>!
 - 😄 Pronouns: she/they
 - ⚡ Fun fact: I also write novels!
 
